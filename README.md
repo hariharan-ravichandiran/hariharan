@@ -8,6 +8,5 @@ According to user requirement the option will be displayed in the console.
 
 # Technologies used
 Java
-Swing(JFrame)
 MySQL
 JDBC
