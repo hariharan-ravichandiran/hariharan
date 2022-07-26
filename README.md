@@ -7,6 +7,6 @@ To store all the information about the user in MySQL database I have used JDBC c
 According to user requirement the option will be displayed in the console.
 
 # Technologies used
-Java
-MySQL
-JDBC
+Java.
+MySQL.
+JDBC.
